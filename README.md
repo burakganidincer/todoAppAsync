@@ -12,4 +12,4 @@
 
 ### GIF
 
-<img src='../assets/screen.gif' />
+<img src="src/assets/screen.gif" />
